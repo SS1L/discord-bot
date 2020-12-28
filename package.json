@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SS1L/discord-bot.git"
+  },
+  "author": "SS1L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SS1L/discord-bot/issues"
+  },
+  "homepage": "https://github.com/SS1L/discord-bot#readme"
+}
