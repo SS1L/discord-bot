@@ -25,6 +25,8 @@ client.on('message',  (message) => {
     if (command === 'play'){
         client.commands.get('play').execute(message, args);
         console.log('nice')
+    } else if (command === 'help'){
+        client.commands.get('help').execute(message, args);
     }
 });
 
